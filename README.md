@@ -26,26 +26,34 @@ The following technologies were used to build this project:
 To run this project, you'll need:
 
 - A modern web browser
-- Internet connection (to interact with the GitHub API)
+- An internet connection (to interact with the GitHub API)
 
 ## :checkered_flag: Running the Project ##
 
 1. Clone the repository to your local machine:
 
-```bash
-$ git clone https://github.com/Piiii31/GithubFinder--Ajax-and-JQuery.git
-Navigate to the project directory:
-bash
+    ```bash
+    $ git clone https://github.com/Piiii31/GithubFinder--Ajax-and-JQuery.git
+    ```
 
-$ cd GithubFinder--Ajax-and-JQuery
-Open index.html in a web browser to start using the application.
+2. Navigate to the project directory:
 
+    ```bash
+    $ cd GithubFinder--Ajax-and-JQuery
+    ```
 
-:handshake: Contributions
+3. Open `index.html` in a web browser to start using the application.
+
+## :handshake: Contributions ##
+
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-:mailbox_with_mail: Contact
-For any inquiries, feel free to reach out: your.email@example.com
+## :mailbox_with_mail: Contact ##
 
-<p align="center"> Made with :heart: by <a href="https://github.com/Piiii31" target="_blank">Piiii31</a> </p> ```
-You can copy and paste this markdown directly into your README.md file.
+For any inquiries, feel free to reach out: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+<p align="center">
+  Made with :heart: by <a href="https://github.com/Piiii31" target="_blank">Piiii31</a>
+</p>
