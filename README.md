@@ -50,7 +50,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## :mailbox_with_mail: Contact ##
 
-For any inquiries, feel free to reach out: [your.email@example.com](mailto:meddeb65@gmail.com)
+For any inquiries, feel free to reach out: [Piiii31](mailto:meddeb65@gmail.com)
 
 ---
 
