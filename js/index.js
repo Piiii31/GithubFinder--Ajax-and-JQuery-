@@ -6,16 +6,16 @@ $(document).ready(function(){
       $.ajax({
           url:'https://api.github.com/users/'+username,
           data:{
-            client_id:'Ov23liwqUNzwg3nFfxcY',
-            client_secret:'f87c48409d63e27b82302255d14ff3dba6c9c584'
+            client_id:'',
+            client_secret:''
           }
       }).done(function(user){
         console.log(user);
         $.ajax({
           url:'https://api.github.com/users/'+username+'/repos',
           data:{
-            client_id:'Ov23liwqUNzwg3nFfxcY',
-            client_secret:'f87c48409d63e27b82302255d14ff3dba6c9c584',
+            client_id:'',
+            client_secret:'',
             sort: 'created: asc',
             per_page: 5
           }
