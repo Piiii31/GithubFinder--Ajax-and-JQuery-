@@ -1,0 +1,1 @@
+The **GithubFinder** project is built with JavaScript, jQuery, and Ajax to interact with the GitHub API. It fetches data asynchronously from the GitHub API based on user input (username) and displays the profile details, including repositories, followers, and other public information.

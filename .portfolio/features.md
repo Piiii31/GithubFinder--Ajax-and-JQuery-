@@ -1,0 +1,3 @@
+- **Real-time GitHub Profile Search**: Search for any GitHub user by username.
+- **Profile Data Display**: View user profile information such as name, bio, repositories, followers, and following.
+- **Responsive Interface**: The interface updates dynamically using Ajax without reloading the page.
